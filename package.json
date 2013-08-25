@@ -1,0 +1,15 @@
+{
+  "name": "jonsharp.net",
+  "description": "home of the free, land of the brave",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.3.5",
+    "ejs": "*",
+    "stylus": "*",
+    "poet": "1.0.x"
+  }
+}
